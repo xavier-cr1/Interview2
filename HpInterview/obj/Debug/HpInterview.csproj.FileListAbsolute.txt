@@ -1,0 +1,6 @@
+C:\Users\Xavier\Source\Repos\HpInterview\HpInterview\bin\Debug\HpInterview.exe.config
+C:\Users\Xavier\Source\Repos\HpInterview\HpInterview\bin\Debug\HpInterview.exe
+C:\Users\Xavier\Source\Repos\HpInterview\HpInterview\bin\Debug\HpInterview.pdb
+C:\Users\Xavier\Source\Repos\HpInterview\HpInterview\obj\Debug\HpInterview.csprojResolveAssemblyReference.cache
+C:\Users\Xavier\Source\Repos\HpInterview\HpInterview\obj\Debug\HpInterview.exe
+C:\Users\Xavier\Source\Repos\HpInterview\HpInterview\obj\Debug\HpInterview.pdb
